@@ -1,0 +1,4 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"/home/bmtron/projects/games/OfficeSim3/Content/ball.png","/home/bmtron/projects/games/OfficeSim3/Content/bin/DesktopGL/ball.png","CopyItem","File",337,337,0.0001066
+"/home/bmtron/projects/games/OfficeSim3/Content/ball2 (copy 1).png","/home/bmtron/projects/games/OfficeSim3/Content/bin/DesktopGL/ball2 (copy 1).xnb","TextureProcessor","Texture2DContent",9169,518485,0.097595
+"/home/bmtron/projects/games/OfficeSim3/Content/ball2.jpg","/home/bmtron/projects/games/OfficeSim3/Content/bin/DesktopGL/ball2.xnb","TextureProcessor","Texture2DContent",9169,518485,0.1128364

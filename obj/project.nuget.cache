@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "78Xv/Vs5UwPqPlMthd+SIR+lq50kLLbyuoQCggzHDxta4iw+ZwiuYLAY1sCzrEhawu+tuo5M8n0qTFXCrzP5Ew==",
+  "success": true,
+  "projectFilePath": "/home/bmtron/projects/games/OfficeSim3/OfficeSim3.csproj",
+  "expectedPackageFiles": [
+    "/home/bmtron/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.5/microsoft.aspnetcore.app.ref.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
